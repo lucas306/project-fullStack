@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/services
+Content-Type: application/json
+
+{
+    "name":"alguma coisa",
+    "description":"alguma coisa",
+    "price": 14000000,
+    "image":"https://www.saopaulo.sp.gov.br/wp-content/uploads/2016/12/festas-festivais.jpg"
+}
